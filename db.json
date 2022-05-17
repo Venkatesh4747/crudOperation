@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "firstName": "df",
+      "lastName": "sds",
+      "email": "sd",
+      "mobile": 545454,
+      "salary": "dfds",
+      "id": 21
+    },
+    {
+      "firstName": "dsfs",
+      "lastName": "djfkj",
+      "email": "kjkj",
+      "mobile": 54545,
+      "salary": "1545",
+      "id": 24
+    },
+    {
+      "firstName": "df",
+      "lastName": "a",
+      "email": "szdf",
+      "mobile": 5,
+      "salary": "5",
+      "id": 25
+    },
+    {
+      "firstName": "sda",
+      "lastName": "as",
+      "email": "asd",
+      "mobile": 4,
+      "salary": "4",
+      "id": 26
+    },
+    {
+      "firstName": "praveeb",
+      "lastName": "leo",
+      "email": "praveen@mail.com",
+      "mobile": 88888888,
+      "salary": "16.5k",
+      "id": 27
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
